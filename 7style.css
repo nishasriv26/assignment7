@@ -1,0 +1,102 @@
+/* CSS  ASSIGNMENT-7*/
+
+body{
+    background-color:aquamarine;
+}
+.header{
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: gold;
+}
+.header1{
+    background-color: black;
+    font-family:cursive;
+    text-align: center;
+    color: gold;
+}
+.Border{
+  background-color: black;
+  color: gold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 5px;
+}
+.dotted{
+    border: 5px dotted;
+}
+.dashed{
+    border: 5px dashed;
+}
+.solid{
+    border: 5px solid;
+}
+.double{
+    border: 5px solid;
+}
+.inset{
+    border: 5px inset;
+    border-color: red;
+}
+.outset{
+    border: 5px outset;
+    border-color: red;
+}
+.yellow{
+    border: 10px;
+}
+.ridge{
+    border: 10px ridge;
+    border-color: yellow;
+    border-radius: 50px;
+}
+.Groove{
+    border: 10px groove;
+    border-color: yellowgreen;
+    border-radius: 50px;
+}
+.Hidden{
+    border: 10px hidden;
+}
+.allborder{
+    border: 10px;
+    border-style: dotted dashed solid inset;
+    border-left-color: red;
+}
+.Margin{
+    background-color: black;
+    color: gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+}
+.para{
+    border: 5px solid;
+    margin: 50px;
+}
+.para1{
+    border: 5px solid;
+
+}
+.padding{
+    background-color: black;
+    color: gold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+}
+.space{
+  border: 5px solid;
+  margin: 50px;
+  padding: 50px;
+}
+.space1{
+    border: 5px solid;
+ 
+}
